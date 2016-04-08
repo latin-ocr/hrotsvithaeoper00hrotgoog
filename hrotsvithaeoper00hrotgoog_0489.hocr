@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./hrotsvithaeoper00hrotgoog/hrotsvithaeoper00hrotgoog_0489.png"; bbox 0 0 1023 1471; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 540 890 744 1215">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 540 938 731 1215">
+     <span class='ocr_line' id='line_1_1' title="bbox 540 1182 579 1213; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 540 1182 579 1213; x_wconf 60' lang='grc' dir='ltr'><strong>ἐξ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 582 1196 637 1212; textangle 90"><span class='ocrx_word' id='word_1_2' title='bbox 582 1196 637 1212; x_wconf 77' lang='grc' dir='ltr'>ῐ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 636 890 744 1215; textangle 90"><span class='ocrx_word' id='word_1_3' title='bbox 640 1182 729 1215; x_wconf 52' lang='grc' dir='ltr'>ᾖ</span> <span class='ocrx_word' id='word_1_4' title='bbox 662 1119 731 1176; x_wconf 15' lang='grc'><strong>1.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 636 890 744 1042; x_wconf 50' lang='grc' dir='ltr'><strong>κξῖ’ἱΞ-’ β</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 554 1024 661 1195">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 545 1024 661 1195">
+     <span class='ocr_line' id='line_1_4' title="bbox 554 1024 661 1195; textangle 90"><span class='ocrx_word' id='word_1_6' title='bbox 554 1024 661 1195; x_wconf 61' lang='grc' dir='ltr'><strong>ςεέἒ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 140 118 886 1352">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 140 118 886 1352">
+     <span class='ocr_line' id='line_1_5' title="bbox 140 118 886 1352; textangle 90"><span class='ocrx_word' id='word_1_7' title='bbox 140 118 886 1352; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
